@@ -102,13 +102,52 @@
 // console.log(teskar);
 
 // 10 misol
+
+// function a(arr, threshold) {
+//   let count = 0;
+//   for (let i = 0; i < arr.length; i++) {
+//     if (arr[i] > threshold) {
+//       count++;
+//     }
+//   }
+//   return count;
+// }
+// const myarray = [1,5,8,3,10,6,12,2,];
+
+// const threshold = 5;
+// const result = a(myarray);
+// console.log(result);
+
 // 11 misol
+// function a(arr) {
+//     return arr.map(a => a +1 );
+
+// }
+
+// const myarray = [1,2,3,4,5];
+// const result = a(myarray);
+// console.log(result);
 // 12 misol
 // 13 misol
 // 14 misol
+// function a(arr) {
+//     return arr.filter(a => a > 0);
+
+    
+// }
+// const myarray = [5,9,4,-8,-7];
+// const result = (a(myarray));
+// console.log(result);
+
 // 15 misol
+//  function a(arr) {
+//     return arr.filter(a => a < 0);
 
-
+    
+// }
+// const myarray = [5,9,4,-8,-7];
+// const result = (a(myarray));
+// console.log(result);
 // 16 misol
 
 // function arrmattn(arg) {
@@ -121,4 +160,11 @@
 // console.log(arg);
 
 // 17 misol
+//  function a(arr) {
+//     return arr.map(a => a * a);
 
+    
+// }
+// const myarray = [2,8,10,5];
+// const result = (a(myarray));
+// console.log(result);
